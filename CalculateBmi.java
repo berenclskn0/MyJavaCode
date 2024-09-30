@@ -4,7 +4,7 @@ public class CalculateBmi {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Pleas enter your Weight: ");
+        System.out.print("Please enter your Weight: ");
         int weight = scanner.nextInt();
 
         System.out.print("Please enter your height(example 1,80): ");
