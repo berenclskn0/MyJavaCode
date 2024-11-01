@@ -1,5 +1,3 @@
-package com.youtube;
-
 import java.util.Scanner;
 
 class Calisan {
