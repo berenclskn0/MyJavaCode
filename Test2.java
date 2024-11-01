@@ -25,7 +25,7 @@ class Calisan {
     }
 
     public void zamYap(int zamdegeri) {
-        maas += zamdegeri;  // Güncellenmiş maaş hesaplanıyor
+        maas += zamdegeri;
         System.out.println("Maasiniza " + zamdegeri + " TL zam yapildi.");
         System.out.println("Guncel maasiniz: " + maas);
     }
